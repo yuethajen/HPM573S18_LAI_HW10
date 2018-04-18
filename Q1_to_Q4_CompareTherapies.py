@@ -31,3 +31,5 @@ SupportMarkov.print_comparative_outcomes(simOutputs_none, simOutputs_anticoag)
 
 # report the CEA results
 SupportMarkov.report_CEA_CBA(simOutputs_none, simOutputs_anticoag)
+print("")
+print("I would  recommend adopting the therapy when the willingness-to-pay is more than 20000.")
